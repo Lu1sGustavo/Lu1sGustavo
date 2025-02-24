@@ -7,5 +7,5 @@
 🌱 Aprendendo sobre Programação
 
  
-💡 Sobre mim
- Tenho 19 anos, tenho um grande interesse na área geral da informática e computação.
+💡 Sobre mim:
+ >Tenho 19 anos, tenho um grande interesse na área geral da informática e computação.
