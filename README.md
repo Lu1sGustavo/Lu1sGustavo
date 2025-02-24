@@ -2,13 +2,13 @@
  
 💻 Estudante em Técnico de Informática na instituição **SENAC**.
 
-🚀 Apaixonado por tecnologia e inovação
+🚀 Apaixonado por tecnologia e inovação.
 
 🎯 Atualmente focado em Informática.
 
 🔭 Trabalhando com códigos C#.
 
-🌱 Aprendendo sobre Programação
+🌱 Aprendendo sobre Programação.
 
  
 💡 Sobre mim:
