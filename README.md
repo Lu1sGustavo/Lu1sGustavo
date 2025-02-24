@@ -1,9 +1,13 @@
 ## Olá! Eu sou Luís Gustavo! 👋
  
-💻 Estudante em Técnico de Informática na instituição **SENAC**
+💻 Estudante em Técnico de Informática na instituição **SENAC**.
+
 🚀 Apaixonado por tecnologia e inovação
+
 🎯 Atualmente focado em Informática.
+
 🔭 Trabalhando com códigos C#.
+
 🌱 Aprendendo sobre Programação
 
  
